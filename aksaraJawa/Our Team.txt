@@ -1,0 +1,10 @@
+This dataset created by :
+1. Aditya Primayudha 		(https://github.com/adityaprimayudha)
+2. Muhammad Dafa Ardiansyah 	(https://github.com/mdafaardiansyah)
+3. Mochammad Yanuar Fitroni	(https://github.com/MochammadYanuarFitroni)
+4. Rifki Riza Alfiansyah	(https://github.com/Ekaeshic)
+5. Muhammad Eko Prasetyo	(https://github.com/muhammadeko)
+6. Arif Widiasan Subagio	(https://github.com/arifwidiasan)
+7. Ario Hartoko			(https://github.com/ariohartoko)
+8. Joni Bastian			(https://github.com/jonibastian)
+9. Wahyu Nugroho Gultom		(https://github.com/wahyunugrohogultom)
